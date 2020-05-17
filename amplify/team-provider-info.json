@@ -1,0 +1,15 @@
+{
+    "dev": {
+        "awscloudformation": {
+            "AuthRoleName": "amplify-lanao-dev-03640-authRole",
+            "UnauthRoleArn": "arn:aws:iam::023267620524:role/amplify-lanao-dev-03640-unauthRole",
+            "AuthRoleArn": "arn:aws:iam::023267620524:role/amplify-lanao-dev-03640-authRole",
+            "Region": "us-east-1",
+            "DeploymentBucketName": "amplify-lanao-dev-03640-deployment",
+            "UnauthRoleName": "amplify-lanao-dev-03640-unauthRole",
+            "StackName": "amplify-lanao-dev-03640",
+            "StackId": "arn:aws:cloudformation:us-east-1:023267620524:stack/amplify-lanao-dev-03640/028f22c0-97f8-11ea-88cf-127c6c2d7f71",
+            "AmplifyAppId": "dda15wkh4xtzp"
+        }
+    }
+}

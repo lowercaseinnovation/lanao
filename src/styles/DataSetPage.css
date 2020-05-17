@@ -1,0 +1,21 @@
+.Data-Set-Page {
+    display: flex;
+    justify-content: space-between;
+    padding-top: 0rem;
+}
+
+.SideBar {
+    width: 20%;
+    height: auto;
+    border-right: 1px solid #000;
+}
+
+.MainInformation {
+    background-color: #CCC;
+    width: 80%;
+    padding-left: 1rem;
+}
+
+.Inside {
+    margin-top: 7rem;
+}

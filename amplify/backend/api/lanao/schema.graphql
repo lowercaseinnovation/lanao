@@ -1,0 +1,10 @@
+type Dataset @model {
+  id: ID!
+  name: String!
+  description: String
+  source: String
+  originalLink: String
+  endpoint: String
+  uploaded: String
+  notes: String
+}
